@@ -2,10 +2,8 @@
 
 Meu nome é Dalton José Neres
 
-- Estou cursando o Ensino Médio
-- Estou aprendendo a Linguagem de JavaScript/ HMTL/ CSS
-- 
-- Gosto muito de estudar programação!
+- Estudante de programação e também cursando o ensino médio
+- Estou estudando as linguagens de: JavaScript/HMTL/CSS
 - Estou usando o GITHUB para hospedar meus projetos estudantis
 
 - (https://www.instagram.com/dalton_neres)
