@@ -1,4 +1,4 @@
-#👋 Olá, prazer!
+**👋 Olá, prazer!**
 - Me chamo Dalton José Neres, sou estudante do ensino médio e também estou mergulhando no mundo da programação — uma área que tem me despertado muita curiosidade e vontade de aprender mais a cada dia.
 
 - No momento, estou focado no desenvolvimento web, estudando HTML, CSS e JavaScript. Uso este perfil para compartilhar meus projetos estudantis, acompanhar minha evolução e, quem sabe, inspirar outras pessoas que também estão começando.
